@@ -37,6 +37,7 @@
 - [ ] add quote in other currencies.
 - [ ] add coins value on a certain date in the chart.
 - [ ] add more coins (of course).
+- [ ] swap trading view for char.js
 - [ ] and put information or news about the ups and downs of currencies and their reasons.
 
 
